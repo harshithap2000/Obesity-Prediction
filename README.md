@@ -30,12 +30,6 @@ The models are evaluated using various metrics, including:
 
 The code provides detailed instructions and comments to guide you through the evaluation process.
 
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - The dataset used in this project is from [Source].
